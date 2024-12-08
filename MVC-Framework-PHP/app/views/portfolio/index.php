@@ -23,8 +23,8 @@ ob_start();
                     <span class="block text-blue-200">Full Stack Developer</span>
                 </h1>
                 <p class="text-xl text-blue-100 mb-8 max-w-2xl">
-                    Zamonaviy web ilovalar yaratish bo'yicha 5+ yillik tajribaga ega dasturchiman. 
-                    Men mijozlar uchun innovatsion yechimlar yaratishga ixtisoslashganman.
+                    Zamonaviy web ilovalar tuzish bo'yicha 5+ yillik tajribaga ega dasturchiman. 
+                    Men mijozlar uchun innovatsion yechimlar tuzishga ixtisoslashganman.
                 </p>
                 <div class="flex flex-wrap gap-4 justify-center md:justify-start">
                     <a href="#contact" class="px-8 py-3 bg-white text-blue-600 rounded-full font-semibold hover:bg-blue-50 transition duration-300">
